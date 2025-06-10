@@ -44,7 +44,9 @@ We are a cross-functional tech company with the following core teams:
 ## 📄 Licensing
 
 Each repository **must include a `LICENSE.txt` file** with the [Meraque Proprietary License](./LICENSE.txt) to ensure that the intellectual property remains under company ownership.
-**License**: [Meraque Proprietary License](https://github.com/Meraque-Digital-Transformation/.github/blob/main/LICENSE)
+[⬇️ Download License](https://raw.githubusercontent.com/Meraque-Digital-Transformation/.github/main/LICENSE)  
+_Right-click and choose "Save As" to download._
+
 
 
 
