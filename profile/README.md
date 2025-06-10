@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Welcome to Meraque GitHub Organization 👋
 
 Meraque is a technology-driven company based in Malaysia, specializing in robotics, artificial intelligence, software systems, and electronics engineering. This GitHub organization serves as our central hub for managing, sharing, and maintaining all company-related software and firmware projects across teams.
@@ -91,5 +91,3 @@ If you’re unsure how to structure your repo, license your code, or collaborate
 ---
 
 Let's build scalable, maintainable, and innovative solutions—together.
-
--->
