@@ -91,7 +91,7 @@ Every repository should have a `README.md` that includes:
 
 If you’re unsure how to structure your repo, license your code, or collaborate with others:
 - Reach out to your **team lead**
-- Or contact `engineering@meraque.com` for organization-wide guidelines
+- Or contact `lamha@meraque.ai` for organization-wide guidelines
 
 ---
 
